@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="miranda.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">talk.google.com</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gmail.com</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">botname</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">botpass</Value>
+    </Setting>
+    <Setting Name="Admin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">adminname@gmail.com</Value>
+    </Setting>
+    <Setting Name="SmtpServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.mail.ru</Value>
+    </Setting>
+    <Setting Name="IsMailAuth" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MailUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">some_smtp_mail@mail.ru</Value>
+    </Setting>
+    <Setting Name="MailPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">some_smtp_pass</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
